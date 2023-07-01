@@ -1,4 +1,6 @@
 body {
+  background-image: url(../src/assets/victor-freitas-KIzBvHNe7hY-unsplash.jpg);
+  background-size: cover;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +12,15 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.Greeting {
+  padding-top: 30px;
+  font-size: 80px;
+  color: #ffffff;
+}
+
+.CartWidget {
+  font-size: 30px;
+  padding-left: 15px;
 }
